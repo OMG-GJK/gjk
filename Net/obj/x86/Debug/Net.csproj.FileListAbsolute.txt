@@ -1,0 +1,42 @@
+e:\my documents\visual studio 2010\Projects\Net\Net\bin\Debug\Net.exe
+e:\my documents\visual studio 2010\Projects\Net\Net\bin\Debug\Net.pdb
+e:\my documents\visual studio 2010\Projects\Net\Net\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\my documents\visual studio 2010\Projects\Net\Net\obj\x86\Debug\Net.Form1.resources
+e:\my documents\visual studio 2010\Projects\Net\Net\obj\x86\Debug\Net.Properties.Resources.resources
+e:\my documents\visual studio 2010\Projects\Net\Net\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\my documents\visual studio 2010\Projects\Net\Net\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\my documents\visual studio 2010\Projects\Net\Net\obj\x86\Debug\Net.exe
+e:\my documents\visual studio 2010\Projects\Net\Net\obj\x86\Debug\Net.pdb
+G:\Net\Net\obj\x86\Debug\Net.exe
+G:\Net\Net\obj\x86\Debug\Net.pdb
+G:\Net\Net\bin\Debug\Net.exe
+G:\Net\Net\bin\Debug\Net.pdb
+G:\Net\Net\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Net\Net\obj\x86\Debug\Net.Form1.resources
+G:\Net\Net\obj\x86\Debug\Net.Properties.Resources.resources
+G:\Net\Net\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Net\Net\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Net\Net\obj\x86\Debug\Net.exe
+H:\Net\Net\obj\x86\Debug\Net.pdb
+H:\Net\Net\bin\Debug\Net.exe
+H:\Net\Net\bin\Debug\Net.pdb
+H:\Net\Net\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Net\Net\obj\x86\Debug\Net.Form1.resources
+H:\Net\Net\obj\x86\Debug\Net.Properties.Resources.resources
+H:\Net\Net\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Net\Net\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Net\Net\bin\Debug\Interop.voipCtrl.dll
+H:\Net\Net\bin\Debug\Interop.VSESSIONLib.dll
+H:\Net\Net\bin\Debug\AxInterop.voipCtrl.dll
+H:\Net\Net\bin\Debug\AxInterop.VSESSIONLib.dll
+H:\Net\Net\obj\x86\Debug\Interop.voipCtrl.dll
+H:\Net\Net\obj\x86\Debug\Interop.VSESSIONLib.dll
+H:\Net\Net\obj\x86\Debug\AxInterop.voipCtrl.dll
+H:\Net\Net\obj\x86\Debug\AxInterop.VSESSIONLib.dll
+H:\Net\Net\obj\x86\Debug\Net.csproj.ResolveComReference.cache
+G:\Net\Net\obj\x86\Debug\Net.csproj.ResolveComReference.cache
+G:\Net\Net\bin\Debug\Interop.VSESSIONLib.dll
+G:\Net\Net\bin\Debug\AxInterop.VSESSIONLib.dll
+G:\Net\Net\obj\x86\Debug\Interop.VSESSIONLib.dll
+G:\Net\Net\obj\x86\Debug\AxInterop.VSESSIONLib.dll
+G:\Net\Net\obj\x86\Debug\Net.MailForm.resources
